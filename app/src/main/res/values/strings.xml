@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SerializationTest</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="list_size">List size: %d</string>
+    <string name="time">Time: %d ms</string>
+    <string name="age">Age: %d</string>
+    <string name="name">Name: %s</string>
+    <string name="type">Interface: %s</string>
+</resources>
